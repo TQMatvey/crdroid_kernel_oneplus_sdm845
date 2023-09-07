@@ -103,7 +103,6 @@ build_kernel_sdm845(){
   curtime=`date +"%m_%d_%H%M"`
   releasefilename=AntiGravity_Test_${curtime}_${VARIANT}
   anykernel3
-  clean
 }
 
 # Run once
